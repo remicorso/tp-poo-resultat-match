@@ -1,0 +1,43 @@
+/*!
+ * Start Bootstrap - Blog Home (https://startbootstrap.com/template-overviews/blog-home)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-blog-home/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+  background-image: url('../img/background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  color: #fff;
+}
+
+.navbar-brand img {
+  height: 100px;
+  width: 100px;
+}
+
+.card {
+  background-color: #000000af;
+  border: none;
+}
+
+.card .row {
+  background-color: #091153;
+  min-height: 150px;
+  padding: 2em;
+  box-shadow: 0 0 10px #fff;
+}
+
+.card-footer {
+  background-color: #091153;
+  text-align: center;
+}
+
+.teamImg {
+  max-width: 200px;
+  max-height: 200px;
+  margin: auto;
+  margin-top: 1em;
+}
